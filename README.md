@@ -1,11 +1,22 @@
-# javascript-sandbox
+# Entrega Variables
 
-Para la parte de cada módulo en la que te planteamos ejercicios con JavaScript puedes usar este sandbox.
+# Paso 1: Crear las variables (const, ya que no van a cambiar) de los géneros musicales
 
-Pasos:
+![generos](imagenesreadme/generos.png)
 
-- Clonate el proyecto.
-- Instala las dependencias con `npm install`.
-- Ejecuta el sandbox con `npm run dev`.
-- Abre el navegador en `http://localhost:5173/` (si ese puerto no te funciona, mira en la consola donde has hecho el build, puede que este ocupado y se haya abierto en otro puerto).
-- Puedes empezar a meter tu código en el fichero:
+# Paso 2: Crear el objeto "grupoMusical" que tendrá toda la información de los grupos musicales (usamos let, ya que vamos a cambiar el objeto varias veces, aunque también se podría acceder a los atributos del objeto mediante "grupoMusical.nombre = X" con const.), como podemos ver, usamos el const de cada genero creados en la captura anterior.
+
+![grupos](imagenesreadme/grupos.png)
+
+# Paso 3: He creado un estilo para el nombre y un estilo base, ya que quiero mostrar todos los datos en un mismo console.log, por lo que también usaré dos "%c"
+
+![estilos](imagenesreadme/estilos.png)
+
+# Este es el código entero después de cambiar y mostrar la variable "grupoMusical" las veces necesarias:
+
+![codigoentero](imagenesreadme/codigoentero.png)
+
+# El resultado en la consola se vería así:
+
+![consolelog](imagenesreadme/consolelog.png)
+![paginaenteraconresultado](imagenesreadme/paginaenteraconresultado.png)
