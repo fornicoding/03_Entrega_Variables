@@ -12,11 +12,15 @@
 
 ![estilos](imagenesreadme/estilos.png)
 
+# Paso 4: Así quedaría el console.log para mostrar todo en el mismo console.log
+
+![consolelog](imagenesreadme/consolelog.png)
+
 # Este es el código entero después de cambiar y mostrar la variable "grupoMusical" las veces necesarias:
 
 ![codigoentero](imagenesreadme/codigoentero.png)
 
 # El resultado en la consola se vería así:
 
-![consolelog](imagenesreadme/consolelog.png)
+![consolelog](imagenesreadme/resultadoconsola.png)
 ![paginaenteraconresultado](imagenesreadme/paginaenteraconresultado.png)
